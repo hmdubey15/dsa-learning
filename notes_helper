@@ -1,0 +1,27 @@
+OrangeRed
+Violet
+Magenta
+SpringGreen
+Yellow
+Gold
+Cyan
+Salmon
+Red
+PaleGreen
+HotPink
+Chartreuse
+Lime
+Khaki
+Coral
+Crimson
+DarkKhaki
+DarkSalmon
+DeepSkyBlue
+
+<div style="font-size: 17px;background: black;padding: 2rem;"> [OUTER CONTAINER]
+<div style="background: DarkRed;padding: 0.3rem 0.8rem;"> [HIGHLIGHT]
+<h3 style="border-bottom: 2px solid white; padding-bottom: 2px; display: inline-block;"> [SUBHEADING]
+<b><u></u></b>
+<b style="color:red;"> [NOTE]
+<span style="color: Cyan;"> [IMP] -></span>
+<div style="border: 1px solid yellow; padding: 10px;"> [BORDER]
